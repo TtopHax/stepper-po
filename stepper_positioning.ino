@@ -1,6 +1,5 @@
 /*
  * Stepper Motor Positioning System
- * Author: [Your Name]
  *
  * Description:
  *   Controls a NEMA 17 stepper motor with a DRV8825 or A4988 driver.
